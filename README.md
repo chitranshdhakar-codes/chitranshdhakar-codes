@@ -5,7 +5,7 @@
 🚀 Exploring AI, Open Source & Software Development  
 
 ## 📊 GitHub Stats
-![Chiransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Chiransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitranshdhakar-codes&show_icons=true&theme=tokyonight)
 
 ## 🚀 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
